@@ -15,6 +15,6 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "jekyll", "~> 4.3.2"
   spec.add_runtime_dependency "jekyll-feed", "~> 0.15.0"
   spec.add_runtime_dependency "jekyll-soopr-seo-tag", "~> 2.7.3"
-  spec.add_runtime_dependency "rouge", "~> 3.23.0"
+  spec.add_runtime_dependency "rouge", "~> 4.1.2"
   spec.add_runtime_dependency "webrick", "~> 1.7"
 end
